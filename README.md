@@ -1,4 +1,3 @@
-### Hi there 👋
 <div id="header" align="center">
 	<h1>Hi there 👋, I'm Pavel</h1>
 	<h3>Python beginner developer from Russia, Kazan</h3>
