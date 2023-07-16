@@ -30,7 +30,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://icon-icons.com/fr/icone/gunicorn-logo/170045" width="40" height="40"/>&nbsp;
+<img src="https://icon-icons.com/downloadimage.php?id=170045&root=2699/PNG/512/&file=gunicorn_logo_icon_170045.png" width="40" height="40"/>&nbsp;
 
 ## My Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Pavel-Leo&show_icons=true&include_all_commits=true)](https://github.com/Pavel-Leo/github-readme-stats)
