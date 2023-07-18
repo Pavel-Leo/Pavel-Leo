@@ -13,13 +13,9 @@
 
 ### About me
 
-- 🌱 I’m currently learning  Python, Django
+- 📫 Reach me by [email](mailto:fionit-2077@mail.ru) or [telegram](https://t.me/pashokify)
 
-- 🔭 I’m currently working on web-site https://pashokify.pythonanywhere.com/
-
-- 📫 Reach me by [email](mailto:fionit-2077@mail.ru)
-
-- 🌍 I speak English
+- 🌍 B2 Upper-Intermediate level of English proficiency
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
