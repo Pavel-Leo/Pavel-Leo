@@ -13,7 +13,7 @@
 
 ### About me
 
-- 📫 Reach me by [email](mailto:fionit-2077@mail.ru) or [telegram](https://t.me/pashokify)
+- 📫 Reach me by [email](mailto:leontevpavel90@gmail.com) or [telegram](https://t.me/pashokify)
 
 - 🌍 B2 Upper-Intermediate level of English proficiency
 
