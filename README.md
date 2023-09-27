@@ -32,6 +32,7 @@
 
 
 ## My Github Stats
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Pavel-Leo&show_icons=true&include_all_commits=true)](https://github.com/Pavel-Leo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-Leo&layout=compact)](https://github.com/Pavel-Leo/github-readme-stats)
 
 
