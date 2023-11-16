@@ -1,6 +1,6 @@
 <div id="header" align="center">
 	<h1>Hi there 👋, I'm Pavel</h1>
-	<h3>Python beginner developer from Russia, Kazan</h3>
+	<h3>Python developer from Russia, Kazan</h3>
 </div>
 <div id="socials" align="center">
 	<a href="https://www.linkedin.com/in/%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB-%D0%BB%D0%B5%D0%BE%D0%BD%D1%82%D1%8C%D0%B5%D0%B2-4b12a1256">
