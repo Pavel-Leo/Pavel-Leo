@@ -20,8 +20,6 @@
 #### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flask/flask-original-wordmark.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://th.bing.com/th/id/R.c963626c145ea660ba7ceee666789c0a?rik=Ui79F6V0E%2bmFYw&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f2016%2f04%2fGithub-PNG-Image.png&ehk=SFNlTltedev2eggRq1KzxVrr35NixG8ITlAbFT%2bVMoY%3d&risl=&pid=ImgRaw&r=0" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/>&nbsp;
